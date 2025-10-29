@@ -61,7 +61,7 @@ To run this analysis yourself:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/datasavvysarah/Student-AI-Impact-Analysis
+    git clone https://github.com/datasavysarah/Student-AI-Impact-Analysis
     ```
 2.  **Set up MySQL:** Create a database and run the `ai_usage_student.sql` script to load the data into the `Student_Data` table.
 3.  **Install Dependencies:**
